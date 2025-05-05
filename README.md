@@ -1,1 +1,2 @@
 # MY-PORTFOLIO
+This repository is a showcase of my personal developer portfolio, highlighting the projects I’ve worked on, my technical skills, and how to get in touch. Whether you're a recruiter, collaborator, or fellow developer, feel free to explore the code, check out my projects, and connect with me for potential opportunities or collaborations. I'm passionate about building useful applications, solving real-world problems, and continuously learning in the field of software development.
